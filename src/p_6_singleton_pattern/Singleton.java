@@ -2,6 +2,7 @@ package p_6_singleton_pattern;
 
 public class Singleton {
 
+    //Singleton Pattern
     private static Singleton instanceObj = null;
 
     private static Object lock = new Object();
