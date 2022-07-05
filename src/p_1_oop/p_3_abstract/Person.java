@@ -1,4 +1,4 @@
-package p_3_abstract;
+package p_1_oop.p_3_abstract;
 
 public class Person extends Customer{
     private int number = 0;

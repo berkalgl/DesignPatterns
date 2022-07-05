@@ -1,4 +1,4 @@
-package p_5_creational_patterns.p_10_prototype;
+package p_3_creational_patterns.p_10_prototype;
 
 public class CompanyAddress extends AddressPrototype{
 

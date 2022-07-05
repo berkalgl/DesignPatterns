@@ -1,4 +1,4 @@
-package p_4_solid.useinterface;
+package p_2_solid.useinterface;
 
 public class AllSendImpl implements IAllSend{
     @Override

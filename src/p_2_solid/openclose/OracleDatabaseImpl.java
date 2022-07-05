@@ -1,4 +1,4 @@
-package p_4_solid.openclose;
+package p_2_solid.openclose;
 
 public class OracleDatabaseImpl implements IDatabase{
     @Override

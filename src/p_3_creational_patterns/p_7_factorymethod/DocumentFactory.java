@@ -1,4 +1,4 @@
-package p_5_creational_patterns.p_7_factorymethod;
+package p_3_creational_patterns.p_7_factorymethod;
 
 public class DocumentFactory {
     public static Document createDocument( EDocumentType type) throws Exception

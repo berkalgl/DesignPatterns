@@ -1,4 +1,4 @@
-package p_4_solid.useinterface;
+package p_2_solid.useinterface;
 
 public class MainInterface {
     public static void main(String[] args) {

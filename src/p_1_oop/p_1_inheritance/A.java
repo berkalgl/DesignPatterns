@@ -1,4 +1,4 @@
-package p_1_inheritance;
+package p_1_oop.p_1_inheritance;
 
 public class A extends Base{
     @Override

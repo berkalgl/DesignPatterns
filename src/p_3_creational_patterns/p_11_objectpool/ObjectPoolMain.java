@@ -1,4 +1,4 @@
-package p_5_creational_patterns.p_11_objectpool;
+package p_3_creational_patterns.p_11_objectpool;
 
 public class ObjectPoolMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package p_5_creational_patterns.p_9_builder;
+package p_3_creational_patterns.p_9_builder;
 
 public class SaleManager {
     private OrderBuilder _orderBuilder;

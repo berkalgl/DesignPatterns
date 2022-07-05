@@ -1,4 +1,4 @@
-package p_3_abstract;
+package p_1_oop.p_3_abstract;
 
 public abstract class Customer {
     abstract int customerNumber();

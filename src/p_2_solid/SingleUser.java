@@ -1,4 +1,4 @@
-package p_4_solid;
+package p_2_solid;
 
 public class SingleUser {
     private String name;

@@ -1,4 +1,4 @@
-package p_2_interface;
+package p_1_oop.p_2_interface;
 
 public class MainInterface {
     public static void main(String[] args){

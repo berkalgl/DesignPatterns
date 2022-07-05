@@ -1,4 +1,4 @@
-package p_4_solid.liskov;
+package p_2_solid.liskov;
 
 public abstract class Print {
 

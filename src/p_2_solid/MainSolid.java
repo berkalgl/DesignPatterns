@@ -1,4 +1,4 @@
-package p_4_solid;
+package p_2_solid;
 
 public class MainSolid {
     public static void main(String[] args) {

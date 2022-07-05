@@ -1,4 +1,4 @@
-package p_4_solid.dependencyinversion;
+package p_2_solid.dependencyinversion;
 
 public class PNG implements IFiligran {
     @Override

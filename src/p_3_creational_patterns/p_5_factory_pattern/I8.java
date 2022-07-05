@@ -1,4 +1,4 @@
-package p_5_creational_patterns.p_5_factory_pattern;
+package p_3_creational_patterns.p_5_factory_pattern;
 
 public class I8 extends Car{
     public I8(int power) {

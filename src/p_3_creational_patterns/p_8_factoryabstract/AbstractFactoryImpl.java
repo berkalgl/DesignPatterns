@@ -1,13 +1,13 @@
-package p_5_creational_patterns.p_8_factoryabstract;
+package p_3_creational_patterns.p_8_factoryabstract;
 
-import p_5_creational_patterns.p_8_factoryabstract.bank.BankTypeEnum;
-import p_5_creational_patterns.p_8_factoryabstract.bank.GarantiBank;
-import p_5_creational_patterns.p_8_factoryabstract.bank.IBaseBank;
-import p_5_creational_patterns.p_8_factoryabstract.bank.IsBank;
-import p_5_creational_patterns.p_8_factoryabstract.loan.CarLoan;
-import p_5_creational_patterns.p_8_factoryabstract.loan.HomeLoan;
-import p_5_creational_patterns.p_8_factoryabstract.loan.IBaseLoan;
-import p_5_creational_patterns.p_8_factoryabstract.loan.LoanTypeEnum;
+import p_3_creational_patterns.p_8_factoryabstract.bank.BankTypeEnum;
+import p_3_creational_patterns.p_8_factoryabstract.bank.GarantiBank;
+import p_3_creational_patterns.p_8_factoryabstract.bank.IBaseBank;
+import p_3_creational_patterns.p_8_factoryabstract.bank.IsBank;
+import p_3_creational_patterns.p_8_factoryabstract.loan.CarLoan;
+import p_3_creational_patterns.p_8_factoryabstract.loan.HomeLoan;
+import p_3_creational_patterns.p_8_factoryabstract.loan.IBaseLoan;
+import p_3_creational_patterns.p_8_factoryabstract.loan.LoanTypeEnum;
 
 public class AbstractFactoryImpl implements IAbstractFactory{
 
