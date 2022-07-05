@@ -1,4 +1,4 @@
-package p_5_factory_pattern;
+package p_5_creational_patterns.p_5_factory_pattern;
 
 import java.util.ArrayList;
 import java.util.List;

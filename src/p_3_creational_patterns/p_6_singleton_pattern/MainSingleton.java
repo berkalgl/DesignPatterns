@@ -1,4 +1,4 @@
-package p_6_singleton_pattern;
+package p_5_creational_patterns.p_6_singleton_pattern;
 
 public class MainSingleton {
     public static void main(String[] args) {
