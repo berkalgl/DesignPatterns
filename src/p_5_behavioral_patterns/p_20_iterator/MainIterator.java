@@ -7,20 +7,19 @@ import java.util.List;
 public class MainIterator {
     public static void main(String[] args) {
 
-        List<User> ls = new ArrayList<>();
-        ls.add(new User());
-        ls.add(new User());
-        ls.add(new User());
+        Tofas tofas = new Tofas();
+        IIterator<Player> itTofas = tofas.getIterator();
+        while (itTofas.hasNext() ) {
+            Player player = itTofas.next();
+            System.out.println( "Tofas : " + player.getName() + " " + player.getNo() );
+        }
 
-        for (User user:ls)
-            System.out.println(user);
-        System.out.println("----------------------");
 
-        //Removes to element which has been used.
-        Iterator<User> userIterator = ls.listIterator();
-        while(userIterator.hasNext()){
-            User item = userIterator.next();
-            System.out.println(item);
+        Fenerbahce fenerbahce = new Fenerbahce();
+        IIterator<Player> itFenerbahce = fenerbahce.getIterator();
+        while (itFenerbahce.hasNext() ) {
+            Player player =  itFenerbahce.next();
+            System.out.println( "Fenerbahce : " + player.getName() + " " + player.getNo() );
         }
     }
 
