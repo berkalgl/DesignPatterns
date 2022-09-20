@@ -43,6 +43,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_dependencyinversion", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_factory_pattern", "03_creational_patterns\01_factory_pattern\01_factory_pattern.csproj", "{7B285457-EE19-49E3-9D81-95DCC5F7AF8B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_singleton_pattern", "02_singleton_pattern", "{3C93E66F-9FBB-4928-A18B-BDAB4C0BE738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_singleton_pattern", "03_creational_patterns\02_singleton_pattern\02_singleton_pattern\02_singleton_pattern.csproj", "{FBF716DC-26AD-432C-8820-9A7A99AEF20A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,10 @@ Global
 		{7B285457-EE19-49E3-9D81-95DCC5F7AF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B285457-EE19-49E3-9D81-95DCC5F7AF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B285457-EE19-49E3-9D81-95DCC5F7AF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF716DC-26AD-432C-8820-9A7A99AEF20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF716DC-26AD-432C-8820-9A7A99AEF20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF716DC-26AD-432C-8820-9A7A99AEF20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF716DC-26AD-432C-8820-9A7A99AEF20A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -103,6 +111,8 @@ Global
 		{2BD4D174-A341-4500-8091-DE44A9649AC9} = {998BBFD8-2A23-410C-9FC0-443DD0970E75}
 		{6DABB822-460F-4509-A511-44A65059DF57} = {6E190CF8-A65F-4DBF-A8A9-61D44ED48200}
 		{7B285457-EE19-49E3-9D81-95DCC5F7AF8B} = {58A65B95-1AA5-46CC-82C5-CFA3B04A7AD5}
+		{3C93E66F-9FBB-4928-A18B-BDAB4C0BE738} = {6555F394-8AB5-458C-9A28-3224EBED9497}
+		{FBF716DC-26AD-432C-8820-9A7A99AEF20A} = {3C93E66F-9FBB-4928-A18B-BDAB4C0BE738}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E1A17C7D-E68B-4055-918D-E21F38E5AAFE}
