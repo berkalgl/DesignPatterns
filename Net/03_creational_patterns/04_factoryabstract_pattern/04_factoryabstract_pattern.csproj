@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_04_factoryabstract_pattern</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Bank\" />
+    <None Remove="Loan\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Bank\" />
+    <Folder Include="Loan\" />
+  </ItemGroup>
+</Project>
